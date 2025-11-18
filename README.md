@@ -152,7 +152,6 @@ YoRiZoRi/
 ├─ gradlew
 ├─ gradlew.bat
 └─ README.md
----
 
 ---
 
