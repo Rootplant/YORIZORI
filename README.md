@@ -15,6 +15,41 @@ CRUD, 인증/인가, 커뮤니티 기능 등 다양한 기능을 제공합니다
 
 ## ✨ 주요 기능
 
+## 📸 프로젝트 주요 화면
+
+### 🔐 로그인 페이지
+<p align="center">
+  <img src="이미지URL" width="750">
+</p>
+
+### 🧾 메인 페이지
+<p align="center">
+  <img src="이미지URL" width="750">
+</p>
+
+### 🥘 레시피 목록
+<p align="center">
+  <img src="이미지URL" width="750">
+</p>
+
+### 🍳 레시피 상세 페이지
+<p align="center">
+  <img src="이미지URL" width="750">
+</p>
+
+### 💬 실시간 채팅(WebSocket)
+<p align="center">
+  <img src="이미지URL" width="750">
+</p>
+
+### 🤖 AI 요리 챗봇(Gemini)
+<p align="center">
+  <img src="이미지URL" width="750">
+</p>
+
+
+
+
 ### 👤 회원 기능
 - 회원가입
 - 로그인 / 로그아웃
