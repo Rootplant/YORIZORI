@@ -148,7 +148,7 @@ YoRiZoRi/
   <tr>
     <!-- 팀원 1 -->
     <td align="center">
-      <img src="프로필이미지주소2" width="130" height="130" style="border-radius: 10px;">
+      <img src="프로필이미지주소1" width="130" height="130" style="border-radius: 10px;">
       <br><br>
       <b>손봉균 (팀장)</b><br>
       <sub>풀스택 - 로그인, 회원가입, 실시간 채팅, 구글 소셜로그인, 페이징 처리, 게시판</sub>
