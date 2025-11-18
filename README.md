@@ -60,7 +60,7 @@ CRUD, 인증/인가, 커뮤니티 기능 등 다양한 기능을 제공합니다
 ### DevOps & Tools
 - **Git / GitHub**
 - **ST**S3 → **STS4**
-- **Maven**
+- **gradle**
 - **Postman**
 
 <p align="center">
