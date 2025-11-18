@@ -160,6 +160,7 @@ YoRiZoRi/
     <td align="center">
        <a href="https://github.com/LeeHyunJin323">
       <img src="https://github.com/LeeHyunJin323.png" width="130" height="130" style="border-radius: 10px;">
+         <br><br>
       <br><br>
       <b>이현진</b><br>
       <sub>백엔드 - 마이페이지, 시큐리티, 네이버·카카오 소셜로그인, 댓글/대댓글, 공지 사항</sub>
@@ -168,6 +169,7 @@ YoRiZoRi/
     <td align="center">
        <a href="https://github.com/RollingSoap">
       <img src="https://github.com/RollingSoap.png" width="130" height="130" style="border-radius: 10px;">
+         <br><br>
       <br><br>
       <b>박동영</b><br>
       <sub>백엔드 - 레시피 페이지, 카테고리 구현, Gemini 챗봇, 이메일 인증</sub>
@@ -176,6 +178,7 @@ YoRiZoRi/
     <td align="center">
        <a href="https://github.com/Rootplant">
       <img src="https://github.com/Rootplant.png" width="130" height="130" style="border-radius: 10px;">
+         <br><br>
       <br><br>
       <b>정찬호</b><br>
       <sub>백엔드 - 레시피 상세페이지, 쪽지 기능, 이미지 처리</sub>
