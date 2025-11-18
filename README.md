@@ -146,14 +146,16 @@ YoRiZoRi/
 
 <table>
   <tr>
-    <!-- 팀원 1 -->
+    <!-- 팀원 1(팀장) -->
     <td align="center">
-      <img src="프로필이미지주소1" width="130" height="130" style="border-radius: 10px;">
-      <br><br>
-      <b>손봉균 (팀장)</b><br>
+      <a href="https://github.com/sbg0629">
+        <img src="https://github.com/sbg0629.png" width="130" height="130" style="border-radius: 10px;">
+        <br><br>
+        <b>손봉균 (팀장)</b>
+      </a>
+      <br>
       <sub>풀스택 - 로그인, 회원가입, 실시간 채팅, 구글 소셜로그인, 페이징 처리, 게시판</sub>
     </td>
-
     <!-- 팀원 2 -->
     <td align="center">
       <img src="프로필이미지주소2" width="130" height="130" style="border-radius: 10px;">
@@ -161,7 +163,6 @@ YoRiZoRi/
       <b>이현진</b><br>
       <sub>백엔드 - 마이페이지, 시큐리티, 네이버·카카오 소셜로그인, 댓글/대댓글, 공지 사항</sub>
     </td>
-
     <!-- 팀원 3 -->
     <td align="center">
       <img src="프로필이미지주소3" width="130" height="130" style="border-radius: 10px;">
@@ -169,7 +170,6 @@ YoRiZoRi/
       <b>박동영</b><br>
       <sub>백엔드 - 레시피 페이지, 카테고리 구현, Gemini 챗봇, 이메일 인증</sub>
     </td>
-
     <!-- 팀원 4 -->
     <td align="center">
       <img src="프로필이미지주소4" width="130" height="130" style="border-radius: 10px;">
