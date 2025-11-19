@@ -27,7 +27,7 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 
 ### 🔐 로그인 페이지
 <p align="center">
-  <img src="이미지URL" width="750" alt="로그인 페이지" />
+  <img src="https://github.com/user-attachments/assets/f7193ac1-6d4f-4f84-9dc9-e1f67d233842" width="750" alt="로그인 페이지" />
 </p>
 
 ### 🧾 메인 페이지
@@ -43,8 +43,9 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 
 ### 🍳 레시피 상세 페이지
 <p align="center">
-  <img src="이미지URL" width="750" alt="레시피 상세 페이지" />
+  <img src="https://github.com/user-attachments/assets/a608aaad-3331-47f4-9e9e-d42bd2b11d65" width="750" alt="레시피 상세 페이지" />
 </p>
+
 
 ### 💬 실시간 채팅(WebSocket)
 <p align="center">
