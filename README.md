@@ -32,8 +32,9 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 
 ### 🧾 메인 페이지
 <p align="center">
-  <img src="이미지URL" width="750" alt="메인 페이지" />
+  <img src="https://github.com/user-attachments/assets/e28d85b0-2158-4f78-8869-3a88241671b7" width="750" alt="메인 페이지" />
 </p>
+
 
 ### 🥘 레시피 목록
 <p align="center">
