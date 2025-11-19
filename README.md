@@ -1,8 +1,9 @@
 # 🍳 YoriZori — 요리 정보 제공 & 레시피 커뮤니티 플랫폼
 
 <p align="center">
-  <img src="Gemini_Generated_Image_1676hj1676hj1676" alt="재미나이 이미지 YoriZori Project Banner" />
+  <img src="https://github.com/user-attachments/assets/3f5231f5-e368-4875-9b5e-bcb8ff08f52e" alt="재미나이 이미지 YoriZori Project Banner" />
 </p>
+
 
 
 
