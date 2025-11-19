@@ -1,8 +1,10 @@
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/56ef58d0-be73-4920-916a-0b42187f3416" /># 🍳 YoriZori — 요리 정보 제공 & 레시피 커뮤니티 플랫폼
+# 🍳 YoriZori — 요리 정보 제공 & 레시피 커뮤니티 플랫폼
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x260?text=YoriZori+Project+Banner" alt="YoriZori Project Banner" />
+  <img src="Gemini_Generated_Image_1676hj1676hj1676" src="https://github.com/user-attachments/assets/dec00c5d-81fc-40da-97b8-a578db7fe0ef" alt="재미나이 이미지 YoriZori Project Banner" />
 </p>
+
+
 
 ## 📌 프로젝트 소개
 **YoriZori**는 사용자가 다양한 레시피를 공유하고, 북마크하며,  
