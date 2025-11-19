@@ -32,42 +32,41 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f7193ac1-6d4f-4f84-9dc9-e1f67d233842" width="750" alt="로그인 페이지" />
 </p>
+---
 
 ### 🧾 메인 페이지
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e28d85b0-2158-4f78-8869-3a88241671b7" width="750" alt="메인 페이지" />
 </p>
-
+---
 
 ### 🥘 레시피 목록
 <p align="center">
-  <img src="이미지URL" width="750" alt="레시피 목록 페이지" />
-</p>
-
+  <img src="https://github.com/user-attachments/assets/e28d85b0-2158-4f78-8869-3a88241671b7" width="750" alt="레시피 목록 페이지" /> </p>
+---
 ### 🍳 레시피 상세 페이지
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a608aaad-3331-47f4-9e9e-d42bd2b11d65" width="750" alt="레시피 상세 페이지" />
 </p>
-
+---
 
 ### 💬 실시간 채팅(WebSocket)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92ba12a9-38b6-465a-b5aa-c13f70f18123" width="750" alt="실시간 채팅" />
 </p>
-
+---
 
 ### 🤖 AI 요리 챗봇(Gemini)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d43cb23-df41-4dda-a2f3-f7adbf9a04bc" width="750" alt="AI 요리 챗봇" />
 </p>
-
+---
 
 ### 🔐 공지사항 페이지
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1603884-e6ef-4af8-9f92-0b7292793e69" width="750" alt="공지사 페이지" />
+  <img src="https://github.com/user-attachments/assets/b1603884-e6ef-4af8-9f92-0b7292793e69" width="750" alt="공지사항 페이지" />
 </p>
 ---
-
 
 ### 🔐 게시판 페이지
 <p align="center">
@@ -75,22 +74,26 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 </p>
 ---
 
-
 ### 🔐 쪽지 페이지
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0535efa8-5177-4df5-b391-fcde6d0c22a4" width="750" alt="쪽지 페이지" />
-  <img src="https://github.com/user-attachments/assets/3ab112f6-6d08-4837-b0ca-eb1bca8f1fb2" width="750" alt="쪽지 페이지" />
-  <img src="https://github.com/user-attachments/assets/10347bda-a261-4207-ba53-e0e06a193df3" width="750" alt="쪽지 페이지" />
-  <img src="https://github.com/user-attachments/assets/90216f2f-c64f-4105-822e-0b46679117b3" width="750" alt="쪽지 페이지" />
-</p>
-
-
-### 🔐 마이페이지 페이지
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/16673cd2-7173-4dc2-ace4-789d2cc05088" width="750" alt="마이페이지 페이지" />
+  <img src="https://github.com/user-attachments/assets/0535efa8-5177-4df5-b391-fcde6d0c22a4" width="750" alt="쪽지 목록 페이지" />
+  <img src="https://github.com/user-attachments/assets/3ab112f6-6d08-4837-b0ca-eb1bca8f1fb2" width="750" alt="쪽지 상세 페이지" />
+  <img src="https://github.com/user-attachments/assets/10347bda-a261-4207-ba53-e0e06a193df3" width="750" alt="쪽지 작성 페이지" />
+  <img src="https://github.com/user-attachments/assets/90216f2f-c64f-4105-822e-0b46679117b3" width="750" alt="쪽지함 페이지" />
 </p>
 ---
 
+### 🔐 마이페이지 페이지
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16673cd2-7173-4dc2-ace4-789d2cc05088" width="750" alt="마이페이지" />
+</p>
+---
+
+### 🔐 추천회원 프로필
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50fb4226-1330-4bbf-be35-2e121e33e345" width="750" alt="추천회원 프로필" />
+</p>
+---
 
 ### 🔐 북마크 페이지
 <p align="center">
@@ -98,13 +101,11 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 </p>
 ---
 
-
 ### 🔐 관리자 페이지
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f9a8e66-f531-42d9-b3a7-a57229d65ec2" width="750" alt="북마크 페이지" />
+  <img src="https://github.com/user-attachments/assets/8f9a8e66-f531-42d9-b3a7-a57229d65ec2" width="750" alt="관리자 페이지" />
 </p>
 ---
-
 
 
 
