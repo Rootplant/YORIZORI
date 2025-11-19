@@ -1,4 +1,4 @@
-# 🍳 YoriZori — 요리 정보 제공 & 레시피 커뮤니티 플랫폼
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/56ef58d0-be73-4920-916a-0b42187f3416" /># 🍳 YoriZori — 요리 정보 제공 & 레시피 커뮤니티 플랫폼
 
 <p align="center">
   <img src="https://via.placeholder.com/900x260?text=YoriZori+Project+Banner" alt="YoriZori Project Banner" />
@@ -49,15 +49,42 @@ sts3 ->  https://github.com/kh2yorizori/kh2_yorizori
 
 ### 💬 실시간 채팅(WebSocket)
 <p align="center">
-  <img src="이미지URL" width="750" alt="실시간 채팅" />
+  <img src="https://github.com/user-attachments/assets/92ba12a9-38b6-465a-b5aa-c13f70f18123" width="750" alt="실시간 채팅" />
 </p>
+
 
 ### 🤖 AI 요리 챗봇(Gemini)
 <p align="center">
-  <img src="이미지URL" width="750" alt="AI 요리 챗봇" />
+  <img src=""https://github.com/user-attachments/assets/1d43cb23-df41-4dda-a2f3-f7adbf9a04bc" width="750" alt="AI 요리 챗봇" />
 </p>
 
+
+### 🔐 공지사항 페이지
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1603884-e6ef-4af8-9f92-0b7292793e69" width="750" alt="공지사 페이지" />
+</p>
 ---
+
+
+### 🔐 게시판 페이지
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdd8a51f-6b18-4134-8bc3-c04dd7ae5da1" width="750" alt="게시판 페이지" />
+</p>
+---
+
+
+### 🔐 쪽지 페이지
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0535efa8-5177-4df5-b391-fcde6d0c22a4" width="750" alt="쪽지 페이지" />
+  <img src="https://github.com/user-attachments/assets/3ab112f6-6d08-4837-b0ca-eb1bca8f1fb2" width="750" alt="쪽지 페이지" />
+  <img src="https://github.com/user-attachments/assets/10347bda-a261-4207-ba53-e0e06a193df3" width="750" alt="쪽지 페이지" />
+  <img src="https://github.com/user-attachments/assets/90216f2f-c64f-4105-822e-0b46679117b3" width="750" alt="쪽지 페이지" />
+</p>
+---
+
+
+
+
 
 ## 🛠 기술 스택
 
