@@ -86,6 +86,8 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f24b8c3-0a7b-4b04-8e7c-00190cdcb368" width="47%" />
   <img src="https://github.com/user-attachments/assets/a608aaad-3331-47f4-9e9e-d42bd2b11d65" width="47%" />
+  <img width="491" height="850" alt="image" src="https://github.com/user-attachments/assets/620c3840-a0bd-4f6a-b0d9-9c26b12394e2" />
+  <img width="373" height="658" alt="image" src="https://github.com/user-attachments/assets/ad16fdc4-2b9e-4ad9-922f-352e6fa2193b" />
 </p>
 
 ### 💬 실시간 채팅 / 🤖 AI 요리 챗봇
