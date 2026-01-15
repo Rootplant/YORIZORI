@@ -96,7 +96,9 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
 
 ### ✉️ 실시간 쪽지 기능
 <p align="center">
+  <img width="950" height="821" alt="image" src="https://github.com/user-attachments/assets/6773976e-a6d9-4184-9db8-5492f7a684f7" />
   <img src="https://github.com/user-attachments/assets/0535efa8-5177-4df5-b391-fcde6d0c22a4" width="47%" />
+  <img width="581" height="382" alt="image" src="https://github.com/user-attachments/assets/b6ffe36c-472e-4056-bb98-9b205e6e32d8" />
   <img src="https://github.com/user-attachments/assets/3ab112f6-6d08-4837-b0ca-eb1bca8f1fb2" width="47%" />
 </p>
 
