@@ -26,9 +26,9 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
 
 본 프로젝트에서 **백엔드 핵심 기능 설계 및 구현**을 담당했습니다.
 
-- **DB 설계 및 테이블 구조 정의**
+- **DB 설계**
   - 레시피, 레시피 상세, 이미지, 쪽지 관련 테이블 설계
-  - 관계 정의 및 CRUD 흐름에 맞춘 스키마 구성
+  - 기능 흐름에 맞춘 관계 정의 및 정규화
 
 - **레시피 기능 구현**
   - 레시피 등록 / 수정 / 상세 조회
@@ -40,9 +40,11 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
   - 서버 저장 및 조회 로직 구현
   - 레시피 상세 화면 이미지 렌더링 처리
 
-- **사용자 쪽지 기능**
-  - 쪽지 송수신, 목록 조회, 상세 조회 기능 구현
-  - 사용자 간 1:1 커뮤니케이션 흐름 설계
+- **실시간 쪽지 기능 설계 및 구현**
+  - 사용자 간 1:1 쪽지 송수신 기능
+  - 실시간 메시지 전송 및 즉시 답장 가능 구조 설계
+  - 쪽지 **읽음 / 안읽음 상태 실시간 반영**
+  - 읽지 않은 쪽지 개수 관리 및 UI 표시 연동
 
 ---
 
@@ -60,7 +62,10 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
 
 - **커뮤니티 기능**
   - WebSocket 기반 실시간 채팅
-  - 1:1 사용자 쪽지 기능
+  - **카카오톡 형태의 1:1 실시간 쪽지 기능**
+    - 실시간 메시지 송수신
+    - 읽음 / 안읽음 상태 즉시 반영
+    - 대화 흐름 유지 가능한 구조 설계
   - AI 요리 챗봇(Gemini) 연동
 
 - **게시판**
@@ -89,13 +94,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
   <img src="https://github.com/user-attachments/assets/1d43cb23-df41-4dda-a2f3-f7adbf9a04bc" width="47%" />
 </p>
 
-### 📢 공지사항 / 📝 게시판
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b1603884-e6ef-4af8-9f92-0b7292793e69" width="47%" />
-  <img src="https://github.com/user-attachments/assets/fdd8a51f-6b18-4134-8bc3-c04dd7ae5da1" width="47%" />
-</p>
-
-### ✉️ 쪽지 기능
+### ✉️ 실시간 쪽지 기능
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0535efa8-5177-4df5-b391-fcde6d0c22a4" width="47%" />
   <img src="https://github.com/user-attachments/assets/3ab112f6-6d08-4837-b0ca-eb1bca8f1fb2" width="47%" />
@@ -131,5 +130,6 @@ Spring MVC · Spring Security · MyBatis · Oracle DB를 기반으로
 
 ## 💡 한 줄 요약
 
-> **YoriZori는 레시피 CRUD와 검색, 이미지 처리, 사용자 간 소통 기능을  
-Spring 기반으로 구현한 요리 커뮤니티 플랫폼입니다.**
+> **YoriZori는 레시피 CRUD·검색·이미지 처리와  
+실시간 읽음 처리가 가능한 쪽지 기능을 Spring 기반으로 구현한  
+요리 커뮤니티 플랫폼입니다.**
