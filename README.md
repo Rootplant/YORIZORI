@@ -32,7 +32,6 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 | 🍳 레시피 | 등록 / 수정 / 상세 조회 / 조건 검색 |
 | 🖼 이미지 처리 | 대표·상세 이미지 업로드 및 렌더링 |
 | 💬 실시간 쪽지 | 1:1 실시간 송수신, 읽음 상태 관리 |
-| 🔐 보안 | Spring Security 기반 인증/권한 처리 |
 | 🛠 구조 개선 | STS3 → STS4 마이그레이션 |
 
 ---
