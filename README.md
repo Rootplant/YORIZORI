@@ -316,3 +316,8 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 > **YoriZori는 레시피 CRUD·검색·이미지 처리와  
 실시간 읽음 처리가 가능한 1:1 쪽지 기능을  
 Spring 기반으로 구현한 요리 커뮤니티 플랫폼입니다.**
+
+---
+
+### 📌 전체 시연 영상
+🔗 YouTube 링크 : https://youtu.be/U1pQ9azqKME
