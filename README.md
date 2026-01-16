@@ -102,23 +102,6 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 
 ---
 
-### 💬 실시간 채팅 & 🤖 AI 요리 챗봇
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/92ba12a9-38b6-465a-b5aa-c13f70f18123" width="47%" />
-  <img src="https://github.com/user-attachments/assets/1d43cb23-df41-4dda-a2f3-f7adbf9a04bc" width="47%" />
-</p>
-
-📌 **설명**
-
-- WebSocket 기반 실시간 채팅 구현
-- Gemini API 연동 AI 요리 챗봇 제공
-- 요리 관련 질문에 대한 즉각적인 응답 제공
-
-👉 **커뮤니티 활성화를 위한 실시간 상호작용 기능**
-
----
-
 ### ✉️ 1:1 실시간 쪽지 기능 (핵심)
 
 <p align="center">
