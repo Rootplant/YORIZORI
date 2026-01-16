@@ -143,6 +143,117 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 
 ---
 
+## 📸 서비스 화면 예시
+
+<details>
+<summary><strong>🏠 메인 화면</strong></summary>
+
+<p align="center">
+  <!-- 메인 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>🍳 레시피 조회</strong></summary>
+
+<p align="center">
+  <!-- 레시피 목록 / 검색 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>🖼 레시피 등록 · 수정</strong></summary>
+
+<p align="center">
+  <!-- 레시피 등록 / 수정 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>👤 마이페이지</strong></summary>
+
+<p align="center">
+  <!-- 마이페이지 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>⭐ 즐겨찾기</strong></summary>
+
+<p align="center">
+  <!-- 즐겨찾기(북마크) 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>🤖 AI 요리 챗봇</strong></summary>
+
+<p align="center">
+  <!-- AI 요리 챗봇 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>💬 실시간 채팅</strong></summary>
+
+<p align="center">
+  <!-- 실시간 채팅 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>✉️ 1:1 실시간 쪽지 기능</strong></summary>
+
+<p align="center">
+  <!-- 1:1 쪽지 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>📢 공지사항</strong></summary>
+
+<p align="center">
+  <!-- 공지사항 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>📝 자유게시판</strong></summary>
+
+<p align="center">
+  <!-- 자유게시판 화면 이미지 삽입 예정 -->
+</p>
+
+</details>
+
+
 ## 🛠 기술 스택
 
 ### Backend
