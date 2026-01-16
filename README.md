@@ -154,7 +154,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>🏠 메인 화면</strong></summary>
 
 <p align="center">
-  <!-- 메인 화면 이미지 삽입 예정 -->
+  <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/e45a12d7-34c8-455a-9083-5e998571fb89" />
 </p>
 
 </details>
@@ -162,10 +162,11 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 ---
 
 <details>
-<summary><strong>🍳 레시피 조회</strong></summary>
+<summary><strong>🍳 레시피 조회 및 상세 검색</strong></summary>
 
 <p align="center">
-  <!-- 레시피 목록 / 검색 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/1f24b8c3-0a7b-4b04-8e7c-00190cdcb368" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a608aaad-3331-47f4-9e9e-d42bd2b11d65" width="45%" />
 </p>
 
 </details>
@@ -176,7 +177,8 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>🖼 레시피 등록 · 수정</strong></summary>
 
 <p align="center">
-  <!-- 레시피 등록 / 수정 화면 이미지 삽입 예정 -->
+  <img width="491" height="850" src="https://github.com/user-attachments/assets/620c3840-a0bd-4f6a-b0d9-9c26b12394e2" />
+  <img width="373" height="658" src="https://github.com/user-attachments/assets/ad16fdc4-2b9e-4ad9-922f-352e6fa2193b" />
 </p>
 
 </details>
@@ -187,7 +189,8 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>👤 마이페이지</strong></summary>
 
 <p align="center">
-  <!-- 마이페이지 화면 이미지 삽입 예정 -->
+  <img width="597" height="380" alt="image" src="https://github.com/user-attachments/assets/66ce2db6-4582-4b61-8488-2cec8ecda10a" />
+  <img width="982" height="804" alt="image" src="https://github.com/user-attachments/assets/78b5ff5b-9ca6-41d0-99f9-eb3d9daad8cf" />
 </p>
 
 </details>
@@ -198,7 +201,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>⭐ 즐겨찾기</strong></summary>
 
 <p align="center">
-  <!-- 즐겨찾기(북마크) 화면 이미지 삽입 예정 -->
+  <img width="873" height="413" alt="image" src="https://github.com/user-attachments/assets/ef007857-ccd4-440d-b4fd-d695a308e6e2" />
 </p>
 
 </details>
@@ -209,7 +212,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>🤖 AI 요리 챗봇</strong></summary>
 
 <p align="center">
-  <!-- AI 요리 챗봇 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/1d43cb23-df41-4dda-a2f3-f7adbf9a04bc" width="47%" />
 </p>
 
 </details>
@@ -220,7 +223,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>💬 실시간 채팅</strong></summary>
 
 <p align="center">
-  <!-- 실시간 채팅 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/92ba12a9-38b6-465a-b5aa-c13f70f18123" width="47%" />
 </p>
 
 </details>
@@ -231,7 +234,16 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>✉️ 1:1 실시간 쪽지 기능</strong></summary>
 
 <p align="center">
-  <!-- 1:1 쪽지 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/6773976e-a6d9-4184-9db8-5492f7a684f7" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0535efa8-5177-4df5-b391-fcde6d0c22a4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b6ffe36c-472e-4056-bb98-9b205e6e32d8" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3ab112f6-6d08-4837-b0ca-eb1bca8f1fb2" width="45%" />
 </p>
 
 </details>
@@ -242,7 +254,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>📢 공지사항</strong></summary>
 
 <p align="center">
-  <!-- 공지사항 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/b1603884-e6ef-4af8-9f92-0b7292793e69" width="47%" />
 </p>
 
 </details>
@@ -253,7 +265,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>📝 자유게시판</strong></summary>
 
 <p align="center">
-  <!-- 자유게시판 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/fdd8a51f-6b18-4134-8bc3-c04dd7ae5da1" width="47%" />
 </p>
 
 </details>
@@ -264,7 +276,7 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 <summary><strong>🧑‍💼 관리자 페이지</strong></summary>
 
 <p align="center">
-  <!-- 관리자 페이지 화면 이미지 삽입 예정 -->
+  <img src="https://github.com/user-attachments/assets/8f9a8e66-f531-42d9-b3a7-a57229d65ec2" width="47%" />
 </p>
 
 </details>
