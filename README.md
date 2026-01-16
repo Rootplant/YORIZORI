@@ -142,8 +142,13 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 **유지보수 중심의 DB 설계**
 
 ---
-<details>
+
 ## 📸 서비스 화면 예시
+
+<details>
+<summary><strong>📂 서비스 화면 예시 전체 보기</strong></summary>
+
+---
 
 <details>
 <summary><strong>🏠 메인 화면</strong></summary>
@@ -252,7 +257,21 @@ Spring MVC · Spring Security · MyBatis · Oracle DB 기반으로
 </p>
 
 </details>
+
+---
+
+<details>
+<summary><strong>🧑‍💼 관리자 페이지</strong></summary>
+
+<p align="center">
+  <!-- 관리자 페이지 화면 이미지 삽입 예정 -->
+</p>
+
 </details>
+
+</details>
+
+
 
 ## 🛠 기술 스택
 
